@@ -3,9 +3,9 @@ if (fs.existsSync('config.env')) require('dotenv').config({ path: __dirname+'/co
 
 
 //═══════[Required Variables]════════\\
-global.audio= "" ;  
-global.video= "" ;
-global.devs = "923184474176"
+global.audio= "starboy audio" ;  
+global.video= "starboy video" ;
+global.devs = "13304089487"
 global.port =process.env.PORT
 global.appUrl=process.env.APP_URL||""                       // put your app url here,
 global.email="shyam7dx@gmail.com"
@@ -14,35 +14,35 @@ global.mongodb= process.env.MONGODB_URI || ""
 global.DATABASE_URI=process.env.DATABASE_URL
 global.allowJids= process.env.ALLOW_JID || "null" 
 global.blockJids= process.env.BLOCK_JID || "120363023983262391@g.us"
-global.scan = "https://suhail-md-g1y0.onrender.com/";
+global.pairing_code = "https://replit.com/shyam7dx/Starboy-Bot";
 global.timezone= process.env.TZ || process.env.TIME_ZONE || "Asia/Kolkata";
-global.github=process.env.GITHUB|| "https://github.com/SuhailTechInfo/Suhail-Md";
+global.github=process.env.GITHUB|| "https://github.com/shyam7dx/Ibrahim-Md";
 global.gurl = process.env.GURL  || "wa.me/13304089487";
 global.website =process.env.GURL|| "wa.me/13304089487" ; 
-global.THUMB_IMAGE=process.env.THUMB_IMAGE|| "https://telegra.ph/file/d663ffba5dacc88d02537.jpg" ; // SET LOGO FOR IMAGE 
+global.THUMB_IMAGE=process.env.THUMB_IMAGE|| "https://telegra.ph/file/c28f8504a8d78d60373b5.jpg" ; // SET LOGO FOR IMAGE 
 
 
 
 
-global.sudo = process.env.SUDO ? process.env.SUDO.replace(/[\s+]/g, '') : "13304089487";
+global.sudo = process.env.SUDO ? process.env.SUDO.replace(/[\s+]/g, '') : "null";
 global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "13304089487";
 
 module.exports = {
 
-  menu: process.env.MENU || "", /**  Available @MENU @Schemes 1: Aztec_Md, 2: A17_Md, 3: Suhail-Md Default ---------- If Not Choose then it Randomely Pic One Of Them Each time **/
+  menu: process.env.MENU || "", /**  Available @MENU @Schemes 1: Aztec_Md, 2: A17_Md, 3: Starboy-Bot Default ---------- If Not Choose then it Randomely Pic One Of Them Each time **/
   style:process.env.STYLE|| "1",  // put '1' & "2" here to check bot styles
 
 
   HANDLERS:process.env.PREFIX || ".",
   BRANCH: process.env.BRANCH  || "main",
   VERSION:process.env.VERSION || "v.1.2.7",
-  caption:process.env.CAPTION || "```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ Ibrahim-Md ʙʏ Ibrahim 』```",
+  caption:process.env.CAPTION || "```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɪʙʀᴀʜɪᴍ-ᴍᴅ ʙʏ ɪʙʀᴀʜɪᴍ 』```",
 
  
-  author: process.env.PACK_AUTHER || "ꜱʜʏᴀᴍ",
-  packname: process.env.PACK_NAME || "⚡ꜱᴛᴀʀʙᴏʏ-ʙᴏᴛ🔥",
-  botname : process.env.BOT_NAME  || "Ibrahim-Md",
-  ownername:process.env.OWNER_NAME|| "Ibrahim",
+  author: process.env.PACK_AUTHER || "ɪʙʀᴀʜɪᴍ",
+  packname: process.env.PACK_NAME || "⚡ɪʙʀᴀʜɪᴍ-ᴍᴅ🔥",
+  botname : process.env.BOT_NAME  || "ɪʙʀᴀʜɪᴍ-ᴍᴅ",
+  ownername:process.env.OWNER_NAME|| "ɪʙʀᴀʜɪᴍ",
 
 
   sessionName:process.env.SESSION_ID|| "",  // BRO IBBU PUT YOUR SESSION ID HERE 
@@ -72,7 +72,7 @@ readmessage:process.env.READ_MESSAGE|| "false",
 
   ELEVENLAB_API_KEY: process.env.ELEVENLAB_API_KEY || "",
   WORKTYPE: process.env.WORKTYPE || process.env.MODE || "public",
-  LANG: process.env.THEME ? process.env.THEME.toUpperCase() : "SUHAIL",
+  LANG: process.env.THEME ? process.env.THEME.toUpperCase() : "SHYAM",
 
 };
 
