@@ -1,12 +1,12 @@
- <h1 align="center"><b>ʜɪ ɪᴍ ꜱʜʏᴀᴍ</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> 
+ <h1 align="center"><b>ʜɪ ɪᴍ ɪʙʀᴀʜɪᴍ</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+I+am+Shyam+18+Years+school+Boy;++;Self-taught+Front-End+Developer,;12th+Student,;My+Hobby+Is+Coding,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+I+am+Ibrahim+17+Years+school+Boy;++;Cricket-player+&+future+Lawyer,;12th+Student,;My+Hobby+Is+arms+developing,;Active+Learner/Topper,;Aim+to+learn+law+LLB..<3"></a>
 </p>
-<p align="center"> Introducing Starboy_Bot, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
+<p align="center"> Introducing Ibrahim-Md, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
 
 <p align="center">
   <a href="">
-    <img alt="Suhail docs" height="300" src="https://telegra.ph/file/f7ceae408070a6f7661dc.jpg">
+    <img alt="Shyam docs" height="300" src="https://telegra.ph/file/c28f8504a8d78d60373b5.jpg">
   </a>
 </p>
     
